@@ -1,3 +1,5 @@
+package BasicCheege;
+
 public class BasicChizee
 {
     public static void main(String[] args) {
@@ -19,10 +21,10 @@ public class BasicChizee
 
 
         int x = 5;
-//        System.out.println(++x); // first increase then print
-//        System.out.println(x++); // first print then increase
-//        System.out.println(x--); // first print then decrease
-//        System.out.println(--x); // first decrease then print
+//        System.out.println(++x); // first increase then BasicCheege.print
+//        System.out.println(x++); // first BasicCheege.print then increase
+//        System.out.println(x--); // first BasicCheege.print then decrease
+//        System.out.println(--x); // first decrease then BasicCheege.print
 
         int y = x++; // y= 5 but here x = 6
         System.out.println(x +" " + y);

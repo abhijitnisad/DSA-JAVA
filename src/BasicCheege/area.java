@@ -1,3 +1,5 @@
+package BasicCheege;
+
 import java.util.Scanner;
 
 public class area {
@@ -17,7 +19,7 @@ public class area {
         System.out.println(4.0/3.0 * 3.14 * r * r * r);
 
 
-        // Total surface area of cuboid
+        // Total surface BasicCheege.area of cuboid
 //        Scanner sc = new Scanner(System.in);
 //        double l =2 , b = 3 , h =4;
 //        System.out.println(l * b * h);

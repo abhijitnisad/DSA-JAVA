@@ -1,3 +1,5 @@
+package BasicCheege;
+
 import java.util.Scanner;
 
 public class sum {
