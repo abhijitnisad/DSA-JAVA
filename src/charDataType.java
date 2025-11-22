@@ -24,7 +24,7 @@ public class charDataType {
 
 // ASCI value
 
-        char c1 = 'a';
+       /* char c1 = 'a';
         int c1_int = c1;     // Implicit Typecasting
         System.out.println( "c1 = " + c1_int);
 
@@ -35,9 +35,32 @@ public class charDataType {
 
         char c3 = 'a';
         System.out.println(c3 + 2);
+        */
 
 
+//        ASCI conversion from int to char
 
+        /*
+        int a = 97;
+        int b = 39;
+        char a1 = (char)a;
+        char b1 = (char)b;
+//        char b3 = b; // Implicit typecasting not support in int to char conversion;
+        System.out.println( "97 int to char conversion:" + a1); // a
+        System.out.println( "39 int to char conversion:" + b1);// '
+         */
+
+
+        /*
+        char ch1 = ' ';
+        int ch1_int  = (int)ch1;
+        System.out.println("space conversion : " + ch1_int);
+         */
+      /*
+        int  ch1 = ' '; // int to char not possible for sapce conversion;
+        char ch1_int  = (char) ch1;
+        System.out.println("space conversion : " + ch1_int);
+       */
 
 
 
