@@ -50,8 +50,7 @@ public class checkGreatestOfThree {
 
 
         /*
-        Ques: Take 3 positive integers input and print the least of them.
-         */
+//        Ques: Take 3 positive integers input and print the least of them.
         if (x<=y) {//means y to bada hai ,ye to nhi hoga
             if (x<=z) {
                 System.out.println(x);
@@ -65,6 +64,10 @@ public class checkGreatestOfThree {
                 System.out.println(z);
             }
         }
+         */
+
+        //Using nested ternary
+        System.out.println((x>y)?   (x>z)?x:z          : (y>z)?y:z);
 
     }
 
