@@ -1,4 +1,4 @@
-package BasicCheege;
+// package BasicCheege;
 
 import java.util.Scanner;
 
@@ -23,7 +23,6 @@ public class area {
 //        Scanner sc = new Scanner(System.in);
 //        double l =2 , b = 3 , h =4;
 //        System.out.println(l * b * h);
-
 
     }
 }

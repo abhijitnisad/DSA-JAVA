@@ -1,4 +1,4 @@
-package BasicCheege;
+// package BasicCheege;
 
 import java.util.Scanner;
 

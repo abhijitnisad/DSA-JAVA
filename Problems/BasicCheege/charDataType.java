@@ -1,4 +1,4 @@
-package BasicCheege;
+// package BasicCheege;
 
 public class charDataType {
     public static void main(String[] args) {
