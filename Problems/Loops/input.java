@@ -2,7 +2,10 @@
 
 public class input {
     public static void main(String[] args) {
-        System.out.println("abhijit");
+
+        //Print n-times Divya where n is taken from user.
+        System.out.println("hello");
+
     }
 }
 
