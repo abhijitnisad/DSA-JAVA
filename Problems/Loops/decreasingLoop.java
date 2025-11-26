@@ -3,6 +3,7 @@ public class decreasingLoop {
             //Decreasig loops
             for (int i = 20; i>=1; i--) {
                 System.out.print(i + " ");
+                
             }
         }
 }
