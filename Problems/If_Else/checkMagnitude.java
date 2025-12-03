@@ -1,4 +1,4 @@
-package If_Else;
+// package If_Else;
 
 import java.util.Scanner;
 
