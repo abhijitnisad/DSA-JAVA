@@ -7,9 +7,16 @@ public class printRightTriangle {
         System.out.print("Enter number : ");
         int n = sc.nextInt();
 
-        for (int i = 1; i<=n; i++) {
+        // for (int i = 1; i<=n; i++) {
+        //     for (int j = 1; j <=i; j++) {   
+        //         System.out.print(j);
+        //     }
+        //    System.out.println();
+
+
+           for (int i = 1; i<=n; i++) {
             for (int j = 1; j <=i; j++) {   
-                System.out.print(j);
+                System.out.print((char)(j+64));
             }
            System.out.println();
         }
