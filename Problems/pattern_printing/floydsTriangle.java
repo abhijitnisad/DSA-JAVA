@@ -8,12 +8,9 @@ public class floydsTriangle {
         int m = 1;
 
         for (int i = 1; i <= n; i++) {
-            for (int j = 1; j <= n; j++) {
-                if (j<=i) {
-                    System.out.print(m);
+            for (int j = 1; j <= i; j++) {
+                    System.out.print(m++ + " ");
                 }
-                }
-                m++;
                 System.out.println();
             }
         }
